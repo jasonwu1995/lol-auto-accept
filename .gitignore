@@ -1,0 +1,8 @@
+**/__pycache__/
+**/venv/
+**/env/
+**/.idea/
+LeagueClientDebugger/config*.json
+LeagueClientDebugger/fullconfig*.txt
+LeagueClientDebugger/all_requests*.txt
+LeagueClientDebugger/saves/
